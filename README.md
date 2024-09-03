@@ -46,18 +46,54 @@ ___
 ___ 
 
 
-
-
-
-
-
 #### [CPTS 302 - Professional Skills in Computing/Engineering](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering)
+
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Course-Information)
+
+- ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Lecture-Slides)
+
+- ##### [Ethics Assignments](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments)
+
+- ##### [PM Assignments](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PM-Assignments)
+
+- ##### [PSD Midterms](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PSD-Midterm)
+
+- ##### [Initial to Final Report](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Initial-Final-Report)
+
+___
 
 #### [CPTS 315 - Introduction to Data Mining](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining)
 
-#### [CPTS 317- Finite Automata - Formal Languages](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages)
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Course-Information)
+
+- ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Lecture-Notes)
+
+- ##### [Homeworks](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Homeworks)
+
+- ##### [Final Project](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Project)
+
+___
+
+#### [CPTS 317 - Finite Automata - Formal Languages](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages)
+
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Course-Information)
+
+- ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Slides-Lectures)
+
+- ##### [Homeworks](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks)
+
+- ##### [Midterm & Final](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Midterm-Final)
+
+___
+
 
 #### [CPTS 321 - Software Engineering Principles](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples)
+
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Course-Information)
+- ##### [Additional Resources](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/blob/Additional-Resources/README.md)
+- ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides)
+
+
 
 #### [CPTS 322 - Software Engineering Principles 1](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1)
 
