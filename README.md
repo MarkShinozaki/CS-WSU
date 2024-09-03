@@ -36,10 +36,14 @@ ___
 
 #### [CPTS 260 - Introduction to Computer Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture)
 
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Course-Information)
+- ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides)
+- ##### [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Homeworks)
+- ##### [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Quizzes)
+- ##### [Midterms](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Midterms)
+- ##### [Final Exams](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam)
 
-
-
-
+___ 
 
 
 
