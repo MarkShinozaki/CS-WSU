@@ -213,5 +213,103 @@ ___
 - ##### [Project](https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Project)
 
 
+____
+
+### My Course Layout
+
+#### First Year 
+
+##### 2019 - Semester 1 - Fall 
+- ###### History 105 
+- ###### Anth 101 
+- ###### Math 100
+- ###### Philosophy 101 
+- ###### Biology 102 
+- ###### CptS 111 - Transferred Credit
+
+##### 2020 - Semester 2 - Spring
+- ###### Math 103 
+- ###### English 101 
+- ###### DTC 101 
+- ###### Intro to Sociology 101 
+- ###### Spanish 101 
+
+##### First Year Summer 
+- ###### Calculus 1 
+- ###### Calculus 2 
+
+#### Second Year 
+
+##### 2020 - Semester 1 - Fall
+- ###### CptS 121 
+- ###### Calculus 3
+- ###### Human Development 205
+- ###### Philosophy 201
+
+##### 2021 - Semester 2 - Spring 
+- ###### CptS 122 
+- ###### Math 216 
+- ###### Math 220 
+- ###### Math 273
+- ###### Physics 201
+
+##### Second Year Summer 
+- ###### CptS 122 
+- ###### DTC 335
+
+#### Third Year 
+
+##### 2021 - Semester 1 - Fall
+- ###### Math 216 
+- ###### Math 220 
+- ###### Physics 201 
+- ###### Statistics 360 
+- ###### CptS 122
+
+##### 2022 - Semester 2 - Spring 
+- ###### CptS 121 - TA
+- ###### CptS 223 
+- ###### CptS 260 
+- ###### CptS 317 
+- ###### Math 301 
+- ###### Physics 202 
+- ###### Phyiscs 212 
+
+#### Fourth Year
+
+##### 2022 - Sem 1 - Fall
+- ###### CptS 223 
+- ###### CptsS 302 
+- ###### CptS 317 
+- ###### Physics 212 
+
+##### 2023 - Sem 2 - Spring
+- ###### CptS 322 
+- ###### CptS 360 
+- ###### CptS 321 
+- ###### CptS 315 
+
+##### Fourth Year Summer 
+- ###### English 402 
+
+#### Fifth Year
+
+##### 2023 - Semester 1 - Fall
+- ###### CptS 421 
+- ###### CptS 415 
+- ###### CptS 355  
+- ###### CptS 327 
+- ###### CptS 321 
+
+##### 2024 - Semester 2 - Spring
+- ###### Math 421 
+- ###### CptS 487 
+- ###### CptS 427 
+- ###### CptS 423 
+- ###### CptS 350
+
+##### Fifth Year Summer 
+- ###### CptS 451
+
 
 
