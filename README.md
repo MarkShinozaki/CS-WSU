@@ -1,4 +1,4 @@
-# CS-WSU
+# CS @ WSU
 
 > [!IMPORTANT]
 > **Navigation to all my Courses and Materials for every Computer Science class @ Washington State University Required to Satisfy Degree Completion.**
