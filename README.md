@@ -126,9 +126,9 @@ ___
 
 #### [CPTS 327 - Cybersecurity - CryptoGraphy](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy)
 
+- ##### [Course Information]()
 
-
-
+- ##### [Lectures & Slides]()
 
 ___
 
