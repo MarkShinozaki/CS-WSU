@@ -90,16 +90,54 @@ ___
 #### [CPTS 321 - Software Engineering Principles](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples)
 
 - ##### [Course Information](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Course-Information)
-- ##### [Additional Resources](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/blob/Additional-Resources/README.md)
+  
+- ##### [Additional Resources](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Additional-Resources)
+  
 - ##### [Lectures & Slides](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides)
 
+- ##### [In-Class Excercises](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/In-Class-Exercises)
+
+- ##### [Homeworks](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks)
+
+- ##### [Midterm Samples](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Midterms-Samples)
+
+- ##### [Final Projects](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects)
+
+- ##### [Bonus Presentation](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Bonus-(SOLID-PRINCIPLES))
+
+___
 
 
 #### [CPTS 322 - Software Engineering Principles 1](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1)
 
+- ##### [Course Information](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Course-Information)
+
+- ##### [Additional Resources](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Resources/README.md)
+  
+- ##### [Lectures & Notes](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Lecture-Notes/README.md)
+
+- ##### [Homeworks](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Homeworks/README.md)
+
+- ##### [Project Milestones](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-Milestones/README.md)
+
+- ##### [Project - FIREMAP](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/blob/Project-FIREMAP/README.md)
+
+___
+
 #### [CPTS 327 - Cybersecurity - CryptoGraphy](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy)
 
+
+
+
+
+___
+
 #### [CPTS 350 - Design Analysis of Algorithms](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms)
+
+
+
+___
+
 
 #### [CPTS 355 - Program Language Design](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign)
 
