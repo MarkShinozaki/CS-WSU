@@ -217,99 +217,23 @@ ____
 
 ### My Course Layout
 
-#### First Year 
+| Year     | Semester         | Courses & Direct Links |
+|----------|------------------|------------------------|
+| **1st**  | 2019 Fall        | History 105, Anth 101, Math 100, Philosophy 101, Biology 102, CptS 111 *(Transferred Credit)* |
+| **1st**  | 2020 Spring      | Math 103, English 101, DTC 101, Intro to Sociology 101, Spanish 101 |
+| **1st**  | Summer           | Calculus 1, Calculus 2 |
+| **2nd**  | 2020 Fall        | [CptS 121](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development) ([Textbook](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Textbook) • [Lectures](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Lecture-Slides) • [Assignments](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Programming-Assignments) • [Quizzes](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Quizzes) • [Exams](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Final-Exams)), Calculus 3, Human Development 205, Philosophy 201 |
+| **2nd**  | 2021 Spring      | [CptS 122](https://github.com/MarkShinozaki/CPTS122-DataStructures) ([Lectures](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides) • [Labs](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs) • [Quizzes](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes) • [Exams](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams)), Math 216, Math 220, Math 273, Physics 201 |
+| **2nd**  | Summer           | [CptS 122](https://github.com/MarkShinozaki/CPTS122-DataStructures) ([Lectures](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides) • [Labs](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs) • [Quizzes](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes) • [Exams](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams)), DTC 335 |
+| **3rd**  | 2021 Fall        | Math 216, Math 220, Physics 201, Statistics 360, [CptS 122](https://github.com/MarkShinozaki/CPTS122-DataStructures) ([Lectures](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides) • [Labs](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs) • [Quizzes](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes) • [Exams](https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams)) |
+| **3rd**  | 2022 Spring      | [CptS 121](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development) *(TA)* ([Textbook](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Textbook) • [Lectures](https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Lecture-Slides)), [CptS 223](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp) ([Textbook](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook) • [Lectures](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides) • [Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments) • [Homeworks](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks) • [Exams](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Exams)), [CptS 260](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture) ([Lectures](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides) • [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Homeworks) • [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Quizzes) • [Exams](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam)), [CptS 317](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages) ([Lectures](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Slides-Lectures) • [Homeworks](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks) • [Exams](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Midterm-Final)), Math 301, Physics 202, Physics 212 |
+| **4th**  | 2022 Fall        | [CptS 223](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp) ([Textbook](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook) • [Lectures](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides) • [Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)), [CptS 302](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering) ([Lectures](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Lecture-Slides) • [Ethics](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments) • [PM Assignments](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PM-Assignments)), [CptS 317](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages) ([Lectures](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Slides-Lectures) • [Homeworks](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks)), Physics 212 |
+| **4th**  | 2023 Spring      | [CptS 322](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1) ([Lectures](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Lecture-Notes) • [Homeworks](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Homeworks) • [Projects](https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-FIREMAP)), [CptS 360](https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux) ([Lectures](https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Notes) • [Labs](https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Labs) • [Exams](https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Exam-Material)), [CptS 321](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples) ([Lectures](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides) • [Homeworks](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Homeworks) • [Projects](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects)), [CptS 315](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining) ([Lectures](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Lecture-Notes) • [Homeworks](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Homeworks) • [Project](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Project)) |
+| **4th**  | Summer           | English 402 |
+| **5th**  | 2023 Fall        | [CptS 421/423](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone) ([Lectures](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides)), [CptS 415](https://github.com/MarkShinozaki/CPTS415-BigData) ([Lectures](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes) • [Assignments](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments) • [Project](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project)), [CptS 355](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign) ([Lectures](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Lecture-Notes) • [Assignments](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Assignments) • [Labs](https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Labs)), [CptS 327](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy) ([Lectures](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy/tree/Slides-Lectures) • [Homeworks](https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy/tree/Homeworks)), [CptS 321](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples) ([Lectures](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides) • [Homeworks](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Homeworks) • [Projects](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects)) |
+| **5th**  | 2024 Spring      | Math 421, [CptS 487](https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture) ([Lectures](https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Lectures-Slides) • [Assignments](https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Assignments) • [Project](https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Project)), [CptS 427](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems) ([Lectures](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Lectures-Slides) • [Assignments](https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments)), [CptS 423](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone) ([Lectures](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides)), [CptS 350](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms) ([Lectures](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Lecture-Notes) • [Homeworks](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Homeworks) • [Exams](https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Exams)) |
+| **5th**  | Summer           | [CptS 451](https://github.com/MarkShinozaki/CPTS451-DatabaseSystems) ([Lectures](https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Slides-Lectures) • [Assignments](https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Assignments) • [Project](https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Project)) |
 
-##### 2019 - Semester 1 - Fall 
-- ###### History 105 
-- ###### Anth 101 
-- ###### Math 100
-- ###### Philosophy 101 
-- ###### Biology 102 
-- ###### CptS 111 - Transferred Credit
-
-##### 2020 - Semester 2 - Spring
-- ###### Math 103 
-- ###### English 101 
-- ###### DTC 101 
-- ###### Intro to Sociology 101 
-- ###### Spanish 101 
-
-##### First Year Summer 
-- ###### Calculus 1 
-- ###### Calculus 2 
-
-#### Second Year 
-
-##### 2020 - Semester 1 - Fall
-- ###### CptS 121 
-- ###### Calculus 3
-- ###### Human Development 205
-- ###### Philosophy 201
-
-##### 2021 - Semester 2 - Spring 
-- ###### CptS 122 
-- ###### Math 216 
-- ###### Math 220 
-- ###### Math 273
-- ###### Physics 201
-
-##### Second Year Summer 
-- ###### CptS 122 
-- ###### DTC 335
-
-#### Third Year 
-
-##### 2021 - Semester 1 - Fall
-- ###### Math 216 
-- ###### Math 220 
-- ###### Physics 201 
-- ###### Statistics 360 
-- ###### CptS 122
-
-##### 2022 - Semester 2 - Spring 
-- ###### CptS 121 - TA
-- ###### CptS 223 
-- ###### CptS 260 
-- ###### CptS 317 
-- ###### Math 301 
-- ###### Physics 202 
-- ###### Phyiscs 212 
-
-#### Fourth Year
-
-##### 2022 - Sem 1 - Fall
-- ###### CptS 223 
-- ###### CptsS 302 
-- ###### CptS 317 
-- ###### Physics 212 
-
-##### 2023 - Sem 2 - Spring
-- ###### CptS 322 
-- ###### CptS 360 
-- ###### CptS 321 
-- ###### CptS 315 
-
-##### Fourth Year Summer 
-- ###### English 402 
-
-#### Fifth Year
-
-##### 2023 - Semester 1 - Fall
-- ###### CptS 421 
-- ###### CptS 415 
-- ###### CptS 355  
-- ###### CptS 327 
-- ###### CptS 321 
-
-##### 2024 - Semester 2 - Spring
-- ###### Math 421 
-- ###### CptS 487 
-- ###### CptS 427 
-- ###### CptS 423 
-- ###### CptS 350
-
-##### Fifth Year Summer 
-- ###### CptS 451
 
 
 
