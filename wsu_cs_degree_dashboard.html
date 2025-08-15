@@ -1,0 +1,281 @@
+html_content = """<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WSU CS Degree Dashboard</title>
+  <!-- Minimal, GitHub-safe styles (inline + simple CSS). -->
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; margin: 24px; line-height: 1.5; }
+    h1 { margin-top: 0; font-size: 1.8rem; }
+    .note { color: #57606a; font-size: 0.95rem; margin-bottom: 16px; }
+    table { width: 100%; border-collapse: collapse; }
+    thead th { text-align: left; border-bottom: 2px solid #d0d7de; padding: 10px 8px; }
+    tbody td { border-top: 1px solid #d8dee4; vertical-align: top; padding: 10px 8px; }
+    tr:hover td { background: #f6f8fa; }
+    .cpts a { font-weight: 700; color: #0969da; text-decoration: none; }
+    .sub a { color: #24292f; text-decoration: none; border-bottom: 1px dotted #d0d7de; }
+    .chip { display: inline-block; font-size: 12px; padding: 2px 6px; border: 1px solid #d0d7de; border-radius: 999px; background: #f6f8fa; color: #57606a; margin-left: 6px; }
+    .nowrap { white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <h1>WSU Computer Science Degree Dashboard</h1>
+  <div class="note">Bold blue items are CptS courses with direct links to Lectures, Assignments, Projects, Exams, etc.</div>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="nowrap">Year</th>
+        <th class="nowrap">Semester</th>
+        <th>Courses &amp; Direct Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>1st</strong></td>
+        <td>2019 Fall</td>
+        <td>History 105, Anth 101, Math 100, Philosophy 101, Biology 102, CptS 111 <span class="chip">Transferred Credit</span></td>
+      </tr>
+      <tr>
+        <td><strong>1st</strong></td>
+        <td>2020 Spring</td>
+        <td>Math 103, English 101, DTC 101, Intro to Sociology 101, Spanish 101</td>
+      </tr>
+      <tr>
+        <td><strong>1st</strong></td>
+        <td>Summer</td>
+        <td>Calculus 1, Calculus 2</td>
+      </tr>
+      <tr>
+        <td><strong>2nd</strong></td>
+        <td>2020 Fall</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development">CptS 121</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Textbook">Textbook</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Lecture-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Programming-Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Quizzes">Quizzes</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Final-Exams">Exams</a>
+          )</span>,
+          Calculus 3, Human Development 205, Philosophy 201
+        </td>
+      </tr>
+      <tr>
+        <td><strong>2nd</strong></td>
+        <td>2021 Spring</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS122-DataStructures">CptS 122</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs">Labs</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes">Quizzes</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams">Exams</a>
+          )</span>,
+          Math 216, Math 220, Math 273, Physics 201
+        </td>
+      </tr>
+      <tr>
+        <td><strong>2nd</strong></td>
+        <td>Summer</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS122-DataStructures">CptS 122</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs">Labs</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes">Quizzes</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams">Exams</a>
+          )</span>,
+          DTC 335
+        </td>
+      </tr>
+      <tr>
+        <td><strong>3rd</strong></td>
+        <td>2021 Fall</td>
+        <td>
+          Math 216, Math 220, Physics 201, Statistics 360,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS122-DataStructures">CptS 122</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Labs">Labs</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Quizzes">Quizzes</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS122-DataStructures/tree/Final-Exams">Exams</a>
+          )</span>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>3rd</strong></td>
+        <td>2022 Spring</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development">CptS 121</a></span> <span class="chip">TA</span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Textbook">Textbook</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS121-ProgramDesign-Development/tree/Lecture-Slides">Lectures</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp">CptS 223</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook">Textbook</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Exams">Exams</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture">CptS 260</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Quizzes">Quizzes</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam">Exams</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages">CptS 317</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Slides-Lectures">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Midterm-Final">Exams</a>
+          )</span>,
+          Math 301, Physics 202, Physics 212
+        </td>
+      </tr>
+      <tr>
+        <td><strong>4th</strong></td>
+        <td>2022 Fall</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp">CptS 223</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook">Textbook</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments">Assignments</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering">CptS 302</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Lecture-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments">Ethics</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PM-Assignments">PM Assignments</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages">CptS 317</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Slides-Lectures">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks">Homeworks</a>
+          )</span>,
+          Physics 212
+        </td>
+      </tr>
+      <tr>
+        <td><strong>4th</strong></td>
+        <td>2023 Spring</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1">CptS 322</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Lecture-Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS322-SoftwareEngineeringPrinciples1/tree/Project-FIREMAP">Projects</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux">CptS 360</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Labs">Labs</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS360-SystemsProgrammingInUnix-Linux/tree/Exam-Material">Exams</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples">CptS 321</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects">Projects</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining">CptS 315</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Lecture-Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/tree/Project">Project</a>
+          )</span>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>4th</strong></td>
+        <td>Summer</td>
+        <td>English 402</td>
+      </tr>
+      <tr>
+        <td><strong>5th</strong></td>
+        <td>2023 Fall</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone">CptS 421/423</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides">Lectures</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS415-BigData">CptS 415</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS415-BigData/tree/Lectures-Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS415-BigData/tree/Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS415-BigData/tree/Project">Project</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign">CptS 355</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Lecture-Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS355-ProgramLanguageDesign/tree/Labs">Labs</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy">CptS 327</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy/tree/Slides-Lectures">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS327-CyberSecurity-CryptoGraphy/tree/Homeworks">Homeworks</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples">CptS 321</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects">Projects</a>
+          )</span>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>5th</strong></td>
+        <td>2024 Spring</td>
+        <td>
+          Math 421,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture">CptS 487</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS487-SoftwareDesign-Architecture/tree/Project">Project</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems">CptS 427</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Lectures-Slides">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS427-CyberSecurityOfWireless-DistributedSystems/tree/Assignments">Assignments</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone">CptS 423</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides">Lectures</a>
+          )</span>,
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms">CptS 350</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Lecture-Notes">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Homeworks">Homeworks</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS350-Design-AnalysisOfAlgorithms/tree/Exams">Exams</a>
+          )</span>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>5th</strong></td>
+        <td>Summer</td>
+        <td>
+          <span class="cpts"><a href="https://github.com/MarkShinozaki/CPTS451-DatabaseSystems">CptS 451</a></span>
+          <span class="sub">(
+            <a href="https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Slides-Lectures">Lectures</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Assignments">Assignments</a> ·
+            <a href="https://github.com/MarkShinozaki/CPTS451-DatabaseSystems/tree/Project">Project</a>
+          )</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>"""
+
+path = "/mnt/data/wsu_cs_degree_dashboard.html"
+with open(path, "w", encoding="utf-8") as f:
+    f.write(html_content)
+
+path
