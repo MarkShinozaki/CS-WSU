@@ -183,10 +183,10 @@ Expand a course to jump to slides, assignments, exams, and other branches.
 | Additional Resources | [Additional-Resources](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Additional-Resources) |
 | Lectures & Slides | [Lectures-Slides](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Lectures-Slides) |
 | In-Class Excercises | [In-Class-Exercises](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/In-Class-Exercises) |
-| Homeworks | [Homeworks](https://github.com/MarkShinozaki/CPTS317-Automata-FormalLanguages/tree/Homeworks) |
+| Homeworks | [Homeworks](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Homeworks) |
 | Midterm Samples | [Midterms-Samples](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Midterms-Samples) |
 | Final Projects | [Final-Projects](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Final-Projects) |
-| Bonus Presentation | [Bonus Presentation](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Bonus-(SOLID-PRINCIPLES) |
+| Bonus Presentation | [Bonus Presentation](https://github.com/MarkShinozaki/CPTS321-SoftwareEngineeringPrinciples/tree/Bonus-(SOLID-PRINCIPLES)) |
 
 </details>
 
@@ -290,7 +290,7 @@ Expand a course to jump to slides, assignments, exams, and other branches.
 
 | Material | Link |
 | :--- | :--- |
-| Course Information | [Course-Information](https://github.com/MarkShinozaki/CPTS415-BigData/tree/Course-Information) |
+| Course Information | [Course-Information](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Course-Information) |
 | Lectures & Slides | [Lectures-Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides) |
 
 </details>
